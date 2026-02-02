@@ -1,0 +1,4 @@
+"Hi, I’m Shayan Hassan,
+a 5th semester Computer Science student at the University of Engineering and Technology Peshawar.
+I’m passionate about Data Analysis, Machine Learning, and Meta Ads, helping small businesses grow 
+through data-driven strategies."
